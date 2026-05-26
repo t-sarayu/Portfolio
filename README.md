@@ -106,6 +106,7 @@ National Institute of Technology, Andhra Pradesh
 
 ## 📜 Certifications
 
+- Microsoft Certified: Power BI Data Analyst Associate — Microsoft (2026)
 - Complete Data Analysis Bootcamp (Udemy)  
 - Bioinformatics Practical Bootcamp (Udemy)  
 - Machine Learning for Healthcare (Coursera)  
