@@ -2,7 +2,7 @@
 
 🎓 B.Tech Graduate (Biotechnology) | 📊 Data Analyst | 🧬 Healthcare Analytics Enthusiast  
 
-I specialize in transforming complex life sciences and business data into actionable insights using **SQL, Python, and Power BI**. I’m passionate about combining biotechnology knowledge with data analytics to solve real-world healthcare problems.
+Healthcare Data Analyst, bridging life sciences domain knowledge with modern analytics. Microsoft Certified Power BI Data Analyst Associate, skilled in SQL, Python, Power BI, Snowflake, and PostgreSQL. Built end-to-end clinical trial data pipelines, pharma sales dashboards, and automated reporting systems with measurable business impact. Domain expertise in CDISC standards, GCP, and GMP makes me a rare fit for CRO, pharma, and health-tech data roles.
 
 ---
 
