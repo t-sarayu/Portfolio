@@ -63,6 +63,31 @@ Healthcare Data Analyst, bridging life sciences domain knowledge with modern ana
 
 ## 📂 Projects
 
+### 🏥 Healthcare Claims Analytics
+SQL Server · Power BI · DAX · CMS DE-SynPUF
+
+End-to-end Medicare claims pipeline — data cleaning, star schema modelling,
+KPI engineering (PMPM, LOS, 30-day readmission), and a 6-page Power BI dashboard
+analysing $864M in claims across 116K patients.
+
+🔗 GitHub: 
+[View Project →](https://github.com/t-sarayu/Healthcare-claims-analytics)
+
+---
+
+### 🔬 Pharmacovigilance Signal Detection — FDA FAERS
+`Python` `PRR/ROR` `Power BI` `ICH E2A/E2B/E2E` `FDA 21 CFR`
+
+End-to-end adverse event signal detection pipeline on FDA FAERS public data.
+Implements Proportional Reporting Ratio (PRR) and Reporting Odds Ratio (ROR)
+methods per EMA GVP Module IX guidelines — the same framework used in
+industry pharmacovigilance at IQVIA, Parexel, and Syneos.
+
+🔗 GitHub: 
+[View Project →](https://github.com/t-sarayu/FAERS-signal-detection-pipeline)
+
+---
+
 ### 🧬 Clinical Trial Data Analysis Pipeline  
 **Tech:** Python, SQL Server, Power BI  
 - Built automated pipeline for **clinical trial datasets (5000+ records)**  
