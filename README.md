@@ -95,7 +95,7 @@ industry pharmacovigilance at IQVIA, Parexel, and Syneos.
 - Generated structured reports similar to real clinical workflows  
 
 🔗 GitHub:  
-[View Project](https://github.com/t-sarayu/clinical-trial-end-to-end-analysis)
+[View Project →](https://github.com/t-sarayu/clinical-trial-end-to-end-analysis)
 
 ---
 
@@ -106,7 +106,7 @@ industry pharmacovigilance at IQVIA, Parexel, and Syneos.
 - Built dashboards for monthly business reporting  
 
 🔗 GitHub:  
-[View Project](https://github.com/t-sarayu/Pharma-Sales-Analysis)
+[View Project →](https://github.com/t-sarayu/Pharma-Sales-Analysis)
 
 ---
 
@@ -117,14 +117,14 @@ industry pharmacovigilance at IQVIA, Parexel, and Syneos.
 - Eliminated manual data processing  
 
 🔗 GitHub:  
-[View Project](https://github.com/t-sarayu/Automated-Daily-Sales-Pipeline)
+[View Project →](https://github.com/t-sarayu/Automated-Daily-Sales-Pipeline)
 
 ---
 
 ## 🎓 Education
 
 **B.Tech in Biotechnology**  
-National Institute of Technology, Andhra Pradesh  
+National Institute of Technology (NIT), Andhra Pradesh  
 📊 CGPA: 7.91  
 
 ---
